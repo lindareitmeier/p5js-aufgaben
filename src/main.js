@@ -32,7 +32,6 @@ sketch.setup = function () {
 
 sketch.draw = function () {
   background(10);
-
   buffer.textSize(70);
   buffer.text("stroke weight", 450, 110);
   buffer.fill(70, 10, 100, 10);
